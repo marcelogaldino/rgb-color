@@ -1,0 +1,73 @@
+.container{
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.slider-red {
+    margin: 18px;
+    display: flex;
+}
+
+.slider-green {
+    margin: 18px;
+    display: flex;
+}
+
+.slider-blue {
+    margin: 18px;
+    display: flex;
+}
+
+.slider-red span {
+    margin-right: 12px;
+    text-align: center;
+}
+
+.slider-green span {
+    margin-right: 34px;
+    text-align: center;
+}
+
+.slider-blue span {
+    margin-right: 41px;
+    text-align: center;
+}
+
+.colorBox {
+    width: 150px;
+    height: 150px;
+    border: 1px solid lightgray;
+    margin: 36px auto;
+}
+
+input[type=range] {
+    margin-right: 12px;
+}
+
+#redText {
+    margin-bottom: 38px;
+}
+
+#greenText {
+    margin-bottom: 38px;
+}
+
+#blueText {
+    margin-bottom: 38px;
+}
+
+#first {
+    color: red;
+}
+
+#second {
+    color: green;
+}
+
+#third {
+    color: blue;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="style.css">
+
+    <title>RGB Colors</title>
+</head>
+<body>
+    
+    <div class="container">
+        <h2><span id="first">Find yo</span><span id="second">ur RG</span><span id="third">B color</span></h2>
+        <div class="slider-red">
+            <span>R (Vermelho)</span>
+            <input id="red" type="range" min="0" max="255" value="0">
+            <input id="redText" type="text" value="0" readonly disabled>
+        </div>
+
+        <div class="slider-green">
+            <span>G (Verde)</span>
+            <input id="green" type="range" min="0" max="255" value="0">
+            <input id="greenText" type="text" value="0" readonly disabled>
+        </div>
+
+        <div class="slider-blue">
+            <span>B (Azul)</span>
+            <input id="blue" type="range" min="0" max="255" value="0">
+            <input id="blueText" type="text" value="0" readonly disabled>
+        </div>
+
+        <div class="colorBox">
+
+        </div>
+    </div>
+
+    <script src="./main.js"></script>
+</body>
+</html>
