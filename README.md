@@ -9,10 +9,10 @@ RGB color | Find your RGB colors easily!
 
 <br>
 
-<img src="https://img.shields.io/github/stars/marcelogaldino/rgbColor"/>
-<img src="https://img.shields.io/github/forks/marcelogaldino/rgbColor"/>
-<img src="https://img.shields.io/github/issues/marcelogaldino/rgbColor"/>
-<img src="https://img.shields.io/github/license/marcelogaldino/rgbColor"/>
+<img src="https://img.shields.io/github/stars/marcelogaldino/rgb-color"/>
+<img src="https://img.shields.io/github/forks/marcelogaldino/rgb-color"/>
+<img src="https://img.shields.io/github/issues/marcelogaldino/rgb-color"/>
+<img src="https://img.shields.io/github/license/marcelogaldino/rgb-color"/>
 
 ## STACK
 
